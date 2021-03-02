@@ -1,5 +1,5 @@
-# airgeddon [![Version-shield]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/LICENSE.md) [![Docker-shield]](https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/)
-[![Paypal-shield]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG) [![Cryptocurrencies-shield]](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct)
+# getAir2U [![Version-shield]](https://raw.githubusercontent.com/v1s1t0r999/getAir2U/master/CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](https://raw.githubusercontent.com/v1s1t0r999/getir2U/master/LICENSE.md) [![Docker-shield]](https://hub.docker.com/r/v1s1t0r999/getAir2U/)
+[![Paypal-shield]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG) [![Cryptocurrencies-shield]](https://github.com/v1s1t0r999/getAir2U/wiki/Contributing-&-Code-of-Conduct)
 
 
 > This is a multi-use bash script for Linux systems to audit wireless networks.
@@ -8,7 +8,7 @@
 
 ---
 
-All the needed info about how to "install | use | enjoy" `airgeddon` is present at [Github's Wiki].
+All the needed info about how to "install | use | enjoy" `getAir2U` is present at [Github's Wiki].
 
 - *I. Content & Features*
   - [Home]
@@ -64,22 +64,22 @@ All the needed info about how to "install | use | enjoy" `airgeddon` is present 
 
 ![Hits-badge]
 
-[Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
-[Github's Wiki]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
+[Banner]: https://raw.githubusercontent.com/v1s1t0r999/getAir2U/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
+[Github's Wiki]: https://github.com/v1s1t0r999/getAir2U/wiki
 
-[Home]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
-[Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
-[Screenshots]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Screenshots
-[Wallpapers]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wallpapers
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
-[Compatibility]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
-[Cards and Chipsets]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets
-[Wayland]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland
-[Consistent Network Device Naming]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent%20Network%20Device%20Naming
-[Kali Nethunter]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Kali%20Nethunter
-[Essential Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
-[Optional Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools
-[BeEF Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
+[Home]: https://github.com/v1s1t0r1999/getAir2U/wiki
+[Features]: https://github.com/v1s1t0r999/getAir2U/wiki/Features
+[Screenshots]: https://github.com/v1s1t0r999/getAir2U/wiki/Screenshots
+[Wallpapers]: https://github.com/v1s1t0r999/getAir2U/wiki/Wallpapers
+[Requirements]: https://github.com/v1s1t0r999/getAir2U/wiki/Requirements
+[Compatibility]: https://github.com/v1s1t0r999/getAir2U/wiki/Compatibility
+[Cards and Chipsets]: https://github.com/v1s1t0r999/getAir2U/wiki/Cards%20and%20Chipsets
+[Wayland]: https://github.com/v1s1t0r999/getAir2U/wiki/Wayland
+[Consistent Network Device Naming]: https://github.com/v1s1t0r999/getAir2U/wiki/Consistent%20Network%20Device%20Naming
+[Kali Nethunter]: https://github.com/v1s1t0r999/getAir2U/wiki/Kali%20Nethunter
+[Essential Tools]: https://github.com/v1s1t0r999/getAir2U/wiki/Essential%20Tools
+[Optional Tools]: https://github.com/v1s1t0r999/getAir2U/wiki/Optional%20Tools
+[BeEF Tips]: https://github.com/v1s1t0r999/getAir2U/wiki/BeEF%20Tips
 [Hashcat Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
 [Bettercap Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Bettercap%20Tips
 [Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
