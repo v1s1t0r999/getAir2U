@@ -14419,12 +14419,14 @@ function print_intro() {
 
 	debug_print
 
-	echo -e "${yellow_color}                  .__                         .___  .___"
-	sleep 0.15 && echo -e "           _____  |__|______  ____   ____   __| _/__| _/____   ____"
-	sleep 0.15 && echo -e "           \__  \ |  \_  __ \/ ___\_/ __ \ / __ |/ __ |/  _ \ /    \\"
-	sleep 0.15 && echo -e "            / __ \|  ||  | \/ /_/  >  ___// /_/ / /_/ (  <_> )   |  \\"
-	sleep 0.15 && echo -e "           (____  /__||__|  \___  / \___  >____ \____ |\____/|___|  /"
-	sleep 0.15 && echo -e "                \/         /_____/      \/     \/    \/           \/${normal_color}"
+ 	echo -e "${yellow_color}                                                                     22222222222         UU        UU  "
+	sleep 0.15 && echo -e "    gggggggggg  EEEEEE TTTTTTTTTT    AAAAAAAAA  IIIIIIII RRRRRRRR              22         UU        UU  "
+	sleep 0.15 && echo -e "    gg          EE         TT        AA     AA     II    RR    RR              22         UU        UU  "
+	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  *** 2222222222   ***   UU        UU  "
+	sleep 0.15 && echo -e "    gg      gg  EE         TT   ***  AA     AA     II    RR RRR    *** 22           ***   UU        UU  "
+	sleep 0.15 && echo -e "    gggggggggg  EEEEEE     TT        AA     AA  IIIIIIII RR   RRR      22                 UU        UU  "
+	sleep 0.15 && echo -e "  X___________________________________________________________________ 2222222222 _______ UUUUUUUUUUUU ___X ${normal_color}"
+	
 	echo
 	language_strings "${language}" 228 "green"
 	print_animated_flying_saucer
@@ -14438,39 +14440,56 @@ function flying_saucer() {
 
 	case ${1} in
 		1)
-			echo "                                                             "
-			echo "                         .   *       _.---._  *              "
-			echo "                                   .'       '.       .       "
-			echo "                               _.-~===========~-._          *"
-			echo "                           *  (___________________)     .    "
-			echo "                       .     .      \_______/    *           "
-		;;
+			echo " 					          /\               "
+			echo "					       _/++++\_	           "
+			echo "                                        /--------\           "
+			echo "                                       /  ***  OO \          "
+			echo " ___++>____    -->                     \___WIFI___/          "
+			echo " | _______|                             \________/           "
+			echo " |getAir2U|____                         / ______ \           "
+			echo " |_OOO_____oo_|                         \/  [_] \/           "
+		;
 		2)
-			echo "                        *         .  _.---._          .      "
-			echo "                              *    .'       '.  .            "
-			echo "                               _.-~===========~-._ *         "
-			echo "                           .  (___________________)       *  "
-			echo "                            *       \_______/        .       "
-			echo "                                                             "
+			echo " 					          /\               "
+			echo "					       _/++++\_	           "
+			echo "                                        /--------\           "
+			echo "                                       /  ***  OO \          "
+			echo " ___++>____              -->           \___WIFI___/          "
+			echo " | _______|                             \________/           "
+			echo " |getAir2U|____                         / ______ \           "
+			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		3)
-			echo "                                   *                .        "
-			echo "                             *       _.---._              *  "
-			echo "                          .        .'       '.       *       "
-			echo "                       .       _.-~===========~-._     *     "
-			echo "                              (___________________)         ."
-			echo "                       *            \_______/ .              "
+			echo " 					          /\               "
+			echo "					       _/++++\_	           "
+			echo "                                        /--------\           "
+			echo "                                       /  ***  OO \          "
+			echo " ___++>____                       -->  \___WIFI___/          "
+			echo " | _______|                             \________/           "
+			echo " |getAir2U|____                         / ______ \           "
+			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		4)
-			echo "                        *         .  _.---._          .      "
-			echo "                              *    .'       '.  .            "
-			echo "                               _.-~===========~-._ *         "
-			echo "                           .  (___________________)       *  "
-			echo "                            *       \_______/        .       "
-			echo "                                                             "
+			echo " 					    * _/\___/-\___/\_  *   "
+			echo "					 *  __\              \   * "
+			echo "                              *       \  BOOM  !! BOOM  |_  -"
+			echo "                                 *    /  BOOM  !! BOOM  _/   "
+			echo " ___++>____                -       * _\  BOOM  !! BOOM /__ * "
+			echo " | _______|                    -     \__ BOOM  !! BOOM __/   "
+			echo " |getAir2U|____            *        *   \__  __   _  _/  *   "
+			echo " |_OOO_____oo_|               *    -    *  \/  \_/ \/  *    -"
 		;;
+		5)
+			echo " 					      _/\___/-\___/\_      "
+			echo "					    __\              \     "
+			echo "                                      \  BOOM  !! BOOM  |_   "
+			echo "                                      /  BOOM  !! BOOM  _/   "
+			echo " ___++>____                          _\  BOOM  !! BOOM /__   "
+			echo " | _______|                    *  -  \__ BOOM  !! BOOM __/* -"
+			echo " |getAir2U|____               -   - * * \__  __   _  _/  -  *"
+			echo " |_OOO_____oo_|               -   *  * - * \/  \_/ \/  * -  -"
 	esac
-	sleep 0.4
+	sleep 0.8
 }
 
 #Print animated ascii art flying saucer
@@ -14482,10 +14501,10 @@ function print_animated_flying_saucer() {
 
 	for i in $(seq 1 8); do
 		echo -e "\033[7A"
-		if [ "${i}" -le 4 ]; then
+		if [ "${i}" -le 5 ]; then
 			saucer_frame=${i}
 		else
-			saucer_frame=$((i-4))
+			saucer_frame=$((i-5))
 		fi
 		flying_saucer ${saucer_frame}
 	done
