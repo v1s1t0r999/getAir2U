@@ -14440,18 +14440,18 @@ function flying_saucer() {
 
 	case ${1} in
 		1)
-			echo " 					          /\               "
-			echo "					       _/++++\_	           "
+			echo " 					                         _/\_              "
+			echo "					                       _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
 			echo " ___++>____    -->                     \___WIFI___/          "
 			echo " | _______|                             \________/           "
 			echo " |getAir2U|____                         / ______ \           "
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
-		;
+		;;
 		2)
-			echo " 					          /\               "
-			echo "					       _/++++\_	           "
+			echo " 					                         _/\_              "
+			echo "					                       _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
 			echo " ___++>____              -->           \___WIFI___/          "
@@ -14460,8 +14460,8 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		3)
-			echo " 					          /\               "
-			echo "					       _/++++\_	           "
+			echo " 					                          /\               "
+			echo "					                       _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
 			echo " ___++>____                       -->  \___WIFI___/          "
@@ -14470,8 +14470,8 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		4)
-			echo " 					    * _/\___/-\___/\_  *   "
-			echo "					 *  __\              \   * "
+			echo " 					                    * _/\___/-\___/\_  *   "
+			echo "					                 *  __\              \   * "
 			echo "                              *       \  BOOM  !! BOOM  |_  -"
 			echo "                                 *    /  BOOM  !! BOOM  _/   "
 			echo " ___++>____                -       * _\  BOOM  !! BOOM /__ * "
@@ -14480,8 +14480,8 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|               *    -    *  \/  \_/ \/  *    -"
 		;;
 		5)
-			echo " 					      _/\___/-\___/\_      "
-			echo "					    __\              \     "
+			echo " 					                      _/\___/-\___/\_      "
+			echo "					                    __\              \     "
 			echo "                                      \  BOOM  !! BOOM  |_   "
 			echo "                                      /  BOOM  !! BOOM  _/   "
 			echo " ___++>____                          _\  BOOM  !! BOOM /__   "
