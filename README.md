@@ -64,7 +64,7 @@ All the needed info about how to "install | use | enjoy" `getAir2U` is present a
 
 ![Hits-badge]
 
-[Banner]: https://https://raw.githubusercontent.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png "We will conquer the earth!!"
+[Banner]: https://https://github.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png "We will conquer the earth!!"
 [Github's Wiki]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 
 [Home]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
