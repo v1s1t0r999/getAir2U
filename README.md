@@ -2,19 +2,17 @@
 [![Paypal-shield]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG) [![Cryptocurrencies-shield]](https://github.com/v1s1t0r999/getAir2U/wiki/Contributing-&-Code-of-Conduct)
 
 
-> The latest & the best linux script to audit and hack wireless network.
+> The latest linux script to hack wireless network.
 
 ![Banner]
 
 ---
 
-All the needed info about how to "install | use | enjoy" `getAir2U` is present at [Github's Wiki].
+Welcome to getAir2U's wiki. Below is all the information you'll ever need
 
 - *I. Content & Features*
   - [Home]
   - [Features]
-  - [Screenshots]
-  - [Wallpapers]
 
 
 - *II. Requirements*
@@ -64,7 +62,7 @@ All the needed info about how to "install | use | enjoy" `getAir2U` is present a
 
 ![Hits-badge]
 
-[Banner]: https://raw.githubusercontent.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png
+[Banner]: https://github.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png
 [Github's Wiki]: https://github.com/v1s1t0r999/getAir2U/wiki
 
 [Home]: https://github.com/v1s1t0r999/getAir2U/wiki
