@@ -102,8 +102,8 @@ Welcome to getAir2U's wiki. Below is all the information you'll ever need
 [Hat Tip To]: https://github.com/v1s1t0r999/getAir2U/wiki/Hat%20Tip%20To
 [Inspiration]: https://github.com/v1s1t0r999/getAir2U/wiki/Inspiration
 
-[Version-shield]: https://img.shields.io/badge/version-10.40-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
-[Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash 4.2 or later"
+[Version-shield]: https://img.shields.io/badge/version-1.0.0-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
+[Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash >=4.2"
 [License-shield]: https://img.shields.io/badge/license-GPL%20v3%2B-blue.svg?style=flat-square&colorA=273133&colorB=bd0000 "GPL v3+"
 [Docker-shield]: https://img.shields.io/docker/cloud/automated/v1s1t0r999/getAir2U.svg?style=flat-square&colorA=273133&colorB=a9a9a9 "Docker rules!"
 [Paypal-shield]: https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square&colorA=273133&colorB=b008bb "Paypal"
