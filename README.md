@@ -4,7 +4,7 @@
 
 ### Note: Since this is the Readme section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/vs1t0r999/getAir2U/wiki>.
 
-# :trident: Installation
+# :trident: Usage
 ``` git clone https://github.com/v1s1t0r999/getAir2U ```
 ``` cd getAir2U ```
 ``` bash getAi2U.sh ```
