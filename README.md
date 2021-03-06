@@ -24,7 +24,7 @@ All contributions are welcomed! Code, documentation, graphics or even design sug
 - Also you'll be gifted a virtual python voice assistant from us.
 
 ## :warning: Requirements
-A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). Nevertheless, the Linux Distro should support the latest aircrack-ng versions. An external wifi card is recommended.
+A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). Nevertheless, the Linux Distro should support the latest aircrack-ng versions. An external wifi card is recommended. For more info, go to the Requirements page in the wiki section <https://github.com/v1s1t0r999/getAir2U/wiki/Requirements>.
 
 ## :octocat: Credits
 1. Author: UNKNOWN(Me) <https://github.com/v1s1t0r999>
