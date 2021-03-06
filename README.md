@@ -19,8 +19,9 @@ Be sure to check out the [changelog here] (https://github.com/v1s1t0r999/getAir2
 
 ## :octocat: How to contribute
 All contributions are welcomed! Code, documentation, graphics or even design suggestions are welcomed; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
-Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
-By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. Also you'll be gifted a virtual python voice assistant from us.
+- Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
+- By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. 
+- Also you'll be gifted a virtual python voice assistant from us.
 
 ## :white_check_mark: Requirements
 
