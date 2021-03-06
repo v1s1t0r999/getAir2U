@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/v1s1t0r999/blob/main/imgs/icons/getAir2U_LOGO.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png?raw=true" /></p>
 
 # getAir2U is not the future, but present of wireless attacks!
 
