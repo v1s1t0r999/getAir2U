@@ -33,13 +33,12 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 ## :mailbox_closed: Contact Us
 - getAir2U
 1. Discord: getAir2U
-2. Mail At: getAir2U.repo@gmail.com
+2. Mail At: getAir2U@gmail.com
 3. Github: <https://github.com/v1s1t0r999/getAir2U>
 
 - v1s1t0r999
-1. Discord: v1s1t0r999
-2. Mail At: aditya.funs.11@gmail.com
-3. Github: <https://github.com/v1s1t0r999>
+1. Mail At: aditya.funs.11@gmail.com
+2. Github: <https://github.com/v1s1t0r999>
 
 - Pratik Shrivastava
 1. Instagram: @soka__sugoi_desu_ne
