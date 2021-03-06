@@ -22,7 +22,7 @@ All contributions are welcomed! Code, documentation, graphics or even design sug
 Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
 By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. Also you'll be gifted a virtual python voice assistant from us.
 
-## :heavy_exclamation_mark: Requirements
+## :white_check_mark: Requirements
 
 A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). Nevertheless, the Linux Distro should support the latest aircrack-ng versions. An external wifi card is recommended.
 
@@ -30,6 +30,6 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 1. Author: UNKNOWN(Me) <https://github.com/v1s1t0r999>
 2. Maintainer: Pratik Shrivastava <https://github.com/pratik1120>
 
-## :white_check_mark: Disclaimer
+## :heavy_exclamation_mark: Disclaimer
 
 ***getAir2U is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer/maintainer or anyone related to this repo.  Be sure that you understand and are complying with the getAir2U licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
