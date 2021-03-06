@@ -5,11 +5,10 @@
 ### Note: Since this is the Readme section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/vs1t0r999/getAir2U/wiki>.
 ### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you resolve your question — they deserve the damn credit!! :tada:  
 
-# :trident: Usage
-``` git clone https://github.com/v1s1t0r999/getAir2U ```
-``` cd getAir2U ```
-``` bash getAi2U.sh ```
-``` !!ENJOY!! ```
+#  Usage
+1. ``` git clone https://github.com/v1s1t0r999/getAir2U ```
+2. ``` cd getAir2U ```
+3. ``` bash getAi2U.sh ```
 
 ## :outbox_tray: Updates
 If you want to request a feature, do so by submitting a Pull Request only. We can't make daily changes to getAir2U.
@@ -33,12 +32,21 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 
 ## :mailbox_closed: Contact Us
 - getAir2U
-1. Discord account: getAir2U
+1. Discord: getAir2U
+2. Mail At: getAir2U.repo@gmail.com
+3. Github: <https://github.com/v1s1t0r999/getAir2U>
 
 - v1s1t0r999
 1. Discord: v1s1t0r999
+2. Mail At: aditya.funs.11@gmail.com
+3. Github: <https://github.com/v1s1t0r999>
+
+- Pratik Shrivastava
+1. Instagram: @soka__sugoi_desu_ne
+2. Mail At: pratikpradeep1120@gmail.com
+3. Github: <https://github.com/pratik1120>
 
 
-## :heavy_exclamation_mark: Disclaimer
+## :trident: Disclaimer
 
 ***getAir2U is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer/maintainer or anyone related to this repo.  Be sure that you understand and are complying with the getAir2U licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
