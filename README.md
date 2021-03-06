@@ -14,7 +14,7 @@
 If you want to request a feature, do so by labeling your issue as an "enhancement" or submit a PR. We can't make daily changes to getAir2U, Sorry.
 
 ## :scroll: Changelog
-getAi2U gets frequent updates with new features, improvements and bugfixes.
+getAir2U gets frequent updates with new features, improvements and bugfixes.
 Be sure to check out the [changelog here] (https://github.com/v1s1t0r999/getAir2U/wiki/changelog).
 
 ## :octocat: How to contribute
