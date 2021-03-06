@@ -3,6 +3,7 @@
 # getAir2U is not the future, but present of wireless attacks!
 
 ### Note: Since this is the Readme section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/vs1t0r999/getAir2U/wiki>.
+### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you resolve your question — they deserve the damn credit!! :tada:  
 
 # :trident: Usage
 ``` git clone https://github.com/v1s1t0r999/getAir2U ```
@@ -10,8 +11,8 @@
 ``` bash getAi2U.sh ```
 ``` !!ENJOY!! ```
 
-## Updates
-If you want to request a feature, do so by labeling your issue as an "enhancement" or submit a PR. We can't make daily changes to getAir2U, Sorry.
+## :outbox_tray: Updates
+If you want to request a feature, do so by submitting a Pull Request only. We can't make daily changes to getAir2U.
 
 ## :scroll: Changelog
 getAir2U gets frequent updates with new features, improvements and bugfixes.
@@ -23,13 +24,20 @@ All contributions are welcomed! Code, documentation, graphics or even design sug
 - By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. 
 - Also you'll be gifted a virtual python voice assistant from us.
 
-## :white_check_mark: Requirements
-
+## :warning: Requirements
 A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). Nevertheless, the Linux Distro should support the latest aircrack-ng versions. An external wifi card is recommended.
 
 ## :octocat: Credits
 1. Author: UNKNOWN(Me) <https://github.com/v1s1t0r999>
 2. Maintainer: Pratik Shrivastava <https://github.com/pratik1120>
+
+## :mailbox_closed: Contact Us
+- getAir2U
+1. Discord account: getAir2U
+
+- v1s1t0r999
+1. Discord: v1s1t0r999
+
 
 ## :heavy_exclamation_mark: Disclaimer
 
