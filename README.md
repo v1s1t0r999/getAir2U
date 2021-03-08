@@ -49,5 +49,6 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 
 ## :trident: Disclaimer
 
-***getAir2U is intended to be used for legal and security purposes only, and you should only use it to protect networks/hosts you own or have permission to test on. Any other use is not the responsibility of the developer/maintainer or anyone else related to this repo.  Be sure that you understand and comply with the getAir2U's licenses and laws in your area.  ***
+**"getAir2U" is intended to be used for legal and security purposes only, and you should only use it to protect networks/hosts you own or have permission to test on. Any other use is not the responsibility of the developer/maintainer or anyone else related to this repo.  Be sure that you understand and comply with the getAir2U's licenses and laws in your area.**
+###
 ***In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
