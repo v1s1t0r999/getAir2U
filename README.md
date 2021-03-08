@@ -2,8 +2,8 @@
 
 # "getAir2U" is not the Future, but Present of Wireless Attacks!
 
-### Note: Since this is the Readme section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/v1s1t0r999/getAir2U/wiki>.
-###
+### Note: Since this is the ReadMe section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/v1s1t0r999/getAir2U/wiki>.
+##
 ### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you in resolving your question — they deserve the damn credit!! :tada:  
 
 # :zap: Usage :zap:
@@ -34,7 +34,7 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 ## :phone: Contact Us
 - getAir2U
 1. Discord: getAir2U
-2. Mail At: getAir2U@gmail.com
+2. Mail At: getAir2U.repo@gmail.com
 3. Github: <https://github.com/v1s1t0r999/getAir2U>
 
 - v1s1t0r999
