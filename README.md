@@ -1,11 +1,12 @@
 <p align="center"><img src="https://github.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png?raw=true" /></p>
 
-# getAir2U is not the future, but present of wireless attacks!
+# "getAir2U" is not the Future, but Present of Wireless Attacks!
 
 ### Note: Since this is the Readme section, so only a small intro is here. For more info, go to the the wiki section <https://github.com/v1s1t0r999/getAir2U/wiki>.
-### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you resolve your question — they deserve the damn credit!! :tada:  
+###
+### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you in resolving your question — they deserve the damn credit!! :tada:  
 
-#  Usage
+# :zap: Usage :zap:
 1. ``` git clone https://github.com/v1s1t0r999/getAir2U ```
 2. ``` cd getAir2U ```
 3. ``` bash getAi2U.sh ```
@@ -13,11 +14,11 @@
 ## :outbox_tray: Updates
 If you want to request a feature, do so by submitting a Pull Request only. We can't make daily changes to getAir2U.
 
-## :scroll: Changelog
+## :page_facing_up: Changelog
 getAir2U gets frequent updates with new features, improvements and bugfixes.
 Be sure to check out the [changelog here] (https://github.com/v1s1t0r999/getAir2U/wiki/changelog).
 
-## :octocat: How to contribute
+## :moneybag: How to contribute
 All contributions are welcomed! Code, documentation, graphics or even design suggestions are welcomed; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
 - Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
 - By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. 
@@ -30,7 +31,7 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 1. Author: UNKNOWN(Me) <https://github.com/v1s1t0r999>
 2. Maintainer: Pratik Shrivastava <https://github.com/pratik1120>
 
-## :mailbox_closed: Contact Us
+## :phone: Contact Us
 - getAir2U
 1. Discord: getAir2U
 2. Mail At: getAir2U@gmail.com
@@ -48,4 +49,5 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 
 ## :trident: Disclaimer
 
-***getAir2U is intended to be used for legal and security purposes only, and you should only use it to protect networks/hosts you own or have permission to test on. Any other use is not the responsibility of the developer/maintainer or anyone else related to this repo.  Be sure that you understand and comply with the getAir2U's licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
+***getAir2U is intended to be used for legal and security purposes only, and you should only use it to protect networks/hosts you own or have permission to test on. Any other use is not the responsibility of the developer/maintainer or anyone else related to this repo.  Be sure that you understand and comply with the getAir2U's licenses and laws in your area.  ***
+***In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
