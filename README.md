@@ -33,7 +33,7 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 ##
 ## :phone: Contact Us
 - getAir2U
-1. Discord: getAir2U#
+1. Discord: getAir2U#7907
 2. Mail At: getAir2U.repo@gmail.com
 3. Github: <https://github.com/v1s1t0r999/getAir2U>
 
