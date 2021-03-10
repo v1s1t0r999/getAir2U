@@ -16,10 +16,11 @@ If you want to request a feature, do so by submitting a Pull Request only. We ca
 ##
 ## :page_facing_up: Changelog
 getAir2U gets frequent updates with new features, improvements and bugfixes.
-Be sure to check out the [changelog here] (https://github.com/v1s1t0r999/getAir2U/wiki/changelog).
+Be sure to check out the Changelog <https://github.com/v1s1t0r999/getAir2U/wiki/changelog>.
 ##
 ## :moneybag: How to contribute
 All contributions are welcomed! Code, documentation, graphics or even design suggestions are welcomed; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
+*** ***
 - Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
 - By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. 
 - Also you'll be gifted a virtual python voice assistant from us.
@@ -33,7 +34,7 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 ##
 ## :phone: Contact Us
 - getAir2U
-1. Discord: `getAir2U#7907` || Public Invite: <https://discord.gg/eUw7AwFHQr>
+1. Discord: `getAir2U#7907` || Public Invite: <https://discord.gg/5FtvrR3ryG>
 2. Mail At: getAir2U.repo@gmail.com
 3. Github: <https://github.com/v1s1t0r999/getAir2U>
 
