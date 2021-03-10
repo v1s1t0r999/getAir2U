@@ -13163,7 +13163,7 @@ function credits_option() {
 	echo -e "${green_color}                                                            .-\"\"\"\"-."
 	sleep 0.15 && echo -e "                                                           /        \ "
 	sleep 0.15 && echo -e "${yellow_color}         ____        ____  __   _______                  ${green_color} /_        _\ "
-	sleep 0.15 && echo -e "${yellow_color}  ___  _/_   | _____/_   |/  |_ \   _  \_______         ${green_color} // \      / \\\\\ "
+	sleep 0.15 && echo -e "${yellow_color}  ___  _/_   | ___f   |/  |_ \   _  \_______         ${green_color} // \      / \\\\\ "
 	sleep 0.15 && echo -e "${yellow_color}  \  \/ /|   |/  ___/|   \   __\/  /_\  \_  __ \        ${green_color} |\__\    /__/|"
 	sleep 0.15 && echo -e "${yellow_color}   \   / |   |\___ \ |   ||  |  \  \_/   \  | \/         ${green_color} \    ||    /"
 	sleep 0.15 && echo -e "${yellow_color}    \_/  |___/____  >|___||__|   \_____  /__|             ${green_color} \        /"
@@ -14419,10 +14419,10 @@ function print_intro() {
 
 	debug_print
 
- 	echo -e "${yellow_color}                                                                     22222222222         UU        UU  "
+ 	echo -e "${yellow_color}                                                                    22222222222         UU        UU  "
 	sleep 0.15 && echo -e "    gggggggggg  EEEEEE TTTTTTTTTT    AAAAAAAAA  IIIIIIII RRRRRRRR              22         UU        UU  "
 	sleep 0.15 && echo -e "    gg          EE         TT        AA     AA     II    RR    RR              22         UU        UU  "
-	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  *** 2222222222   ***   UU        UU  "
+	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  ***  222222222   ***   UU        UU  "
 	sleep 0.15 && echo -e "    gg      gg  EE         TT   ***  AA     AA     II    RR RRR    *** 22           ***   UU        UU  "
 	sleep 0.15 && echo -e "    gggggggggg  EEEEEE     TT        AA     AA  IIIIIIII RR   RRR      22                 UU        UU  "
 	sleep 0.15 && echo -e "  X___________________________________________________________________ 2222222222 _______ UUUUUUUUUUUU ___X ${normal_color}"
