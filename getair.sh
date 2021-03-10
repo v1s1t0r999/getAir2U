@@ -14478,16 +14478,7 @@ function flying_saucer() {
 			echo " | _______|                    -     \__ BOOM  !! BOOM __/   "
 			echo " |getAir2U|____            *        *   \__  __   _  _/  *   "
 			echo " |_OOO_____oo_|               *    -    *  \/  \_/ \/  *    -"
-		;;
-		5)
-			echo " 					                      _/\___/-\___/\_      "
-			echo "					                    __\              \     "
-			echo "                                      \  BOOM  !! BOOM  |_   "
-			echo "                                      /  BOOM  !! BOOM  _/   "
-			echo " ___++>____                          _\  BOOM  !! BOOM /__   "
-			echo " | _______|                    *  -  \__ BOOM  !! BOOM __/* -"
-			echo " |getAir2U|____               -   - * * \__  __   _  _/  -  *"
-			echo " |_OOO_____oo_|               -   *  * - * \/  \_/ \/  * -  -"
+
 	esac
 	sleep 0.8
 }
@@ -14501,10 +14492,10 @@ function print_animated_flying_saucer() {
 
 	for i in $(seq 1 8); do
 		echo -e "\033[7A"
-		if [ "${i}" -le 5 ]; then
+		if [ "${i}" -le 4 ]; then
 			saucer_frame=${i}
 		else
-			saucer_frame=$((i-5))
+			saucer_frame=$((i-4))
 		fi
 		flying_saucer ${saucer_frame}
 	done
