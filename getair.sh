@@ -14419,13 +14419,13 @@ function print_intro() {
 
 	debug_print
 
- 	echo -e "${yellow_color}                                                                    22222222222         UU        UU  "
+ 	echo -e "${yellow_color}                                                                      222222222          UU        UU  "
 	sleep 0.15 && echo -e "    gggggggggg  EEEEEE TTTTTTTTTT    AAAAAAAAA  IIIIIIII RRRRRRRR              22         UU        UU  "
 	sleep 0.15 && echo -e "    gg          EE         TT        AA     AA     II    RR    RR              22         UU        UU  "
-	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  ***  222222222   ***   UU        UU  "
-	sleep 0.15 && echo -e "    gg      gg  EE         TT   ***  AA     AA     II    RR RRR    *** 22           ***   UU        UU  "
+	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  ***  22222222    ***   UU        UU  "
+	sleep 0.15 && echo -e "    gg      gg  EE         TT   ***  AA     AA     II    RRRRR     *** 22           ***   UU        UU  "
 	sleep 0.15 && echo -e "    gggggggggg  EEEEEE     TT        AA     AA  IIIIIIII RR   RRR      22                 UU        UU  "
-	sleep 0.15 && echo -e "  X___________________________________________________________________ 2222222222 _______ UUUUUUUUUUUU ___X ${normal_color}"
+	sleep 0.15 && echo -e "  X___________________________________________________________________  222222222 _______  UUUUUUUUUU  ___X ${normal_color}"
 	
 	echo
 	language_strings "${language}" 228 "green"
