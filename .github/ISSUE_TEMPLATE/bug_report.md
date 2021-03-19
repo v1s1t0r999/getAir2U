@@ -1,6 +1,6 @@
 ---
-Name: Bug report
-About: Create a Bug Report to help us improve
+name: Bug report
+about: Create a Bug Report to help us improve
 Tags: Bug problem 
 ---
 ##
@@ -32,9 +32,11 @@ Add any other context about the problem here. (Including external links).
 Example Bug Template:
 ###
 ---
+
 Name: Bug
 About: Bug in the Dos Attack Menu
 Tags: Lags and Crashes
+
 ---
 ### **Description**
 BLAH...BLAH...BLAH...BLAH...BLAH...
