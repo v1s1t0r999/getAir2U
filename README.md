@@ -23,7 +23,7 @@ All contributions are welcomed! Code, documentation, graphics or even design sug
 *** ***
 - Donate: <https://github.com/v1s1t0r999/getAir2U/wiki/Help_This_Repo:-D>
 - By donations you'll have your name in the Board of Fame section <https://github.com/v1s1t0r999/getAir2U/wiki/Board%20of%20fame>. 
-- Also you'll be gifted a virtual python voice assistant from us.
+- ***Also you'll be gifted a virtual python voice assistant from us.***
 ##
 ## :warning: Requirements
 A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). Nevertheless, the Linux Distro should support the latest aircrack-ng versions. An external wifi card is recommended. For more info, go to the Requirements page in the wiki section <https://github.com/v1s1t0r999/getAir2U/wiki/Requirements>.
@@ -45,7 +45,7 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 
 - Pratik Shrivastava
 1. Discord: `i have = death note , your name#8282`
-2. Instagram: @soka__sugoi_desu_ne
+2. Instagram: @soka__sugoi_desu_ne (I know the name is quite ***WEIRD***😆)
 3. Mail At: pratikpradeep1120@gmail.com
 4. Github: <https://github.com/pratik1120>
 ##
