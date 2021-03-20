@@ -6,6 +6,7 @@
 ##
 ### If u have some doubt, Please 'DO NOT' create an Issue, instead ask your doubt in the Discussion section <https:/github.com/v1s1t0r999/getAir2U/discussions>. And be sure to mark the one’s comment as an answer if it helps you in resolving your question — they deserve the damn credit!! :tada:  
 ##
+### Also, Do join our Discord server: <https://discord.gg/5FtvrR3ryG>
 # :zap: Usage :zap:
 1. ``` git clone https://github.com/v1s1t0r999/getAir2U ```
 2. ``` cd getAir2U ```
@@ -56,4 +57,3 @@ A Linux-based operating system. We recommend or Kali 2020.x (rolling edition). N
 ***In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
 # ____________________________________________________________________________________________________________________________________________
 #
-
