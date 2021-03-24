@@ -14419,7 +14419,7 @@ function print_intro() {
 
 	debug_print
 
- 	echo -e "${yellow_color}                                                                      222222222          UU        UU  "
+ 	echo -e "${yellow_color}                                                                      222222222           UU        UU  "
 	sleep 0.15 && echo -e "    gggggggggg  EEEEEE TTTTTTTTTT    AAAAAAAAA  IIIIIIII RRRRRRRR              22         UU        UU  "
 	sleep 0.15 && echo -e "    gg          EE         TT        AA     AA     II    RR    RR              22         UU        UU  "
 	sleep 0.15 && echo -e "    gg   ggggg  EEEEE      TT   ***  AAAAAAAAA     II    RRRRRRRR  ***  22222222    ***   UU        UU  "
@@ -14440,7 +14440,7 @@ function flying_saucer() {
 
 	case ${1} in
 		1)
-			echo " 					         _/\_              "
+			echo " 					                         _/\_              "
 			echo "                                         _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
@@ -14450,7 +14450,7 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		2)
-			echo " 					         _/\_              "
+			echo " 					                         _/\_              "
 			echo "                                         _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
@@ -14460,8 +14460,8 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		3)
-			echo " 					         _/\_              "
-			echo "					       _/++++\_	           "
+			echo " 					                         _/\_              "
+			echo "					                       _/++++\_	           "
 			echo "                                        /--------\           "
 			echo "                                       /  ***  OO \          "
 			echo " ___++>____                       -->  \___WIFI___/          "
@@ -14470,17 +14470,19 @@ function flying_saucer() {
 			echo " |_OOO_____oo_|                         \/  [_] \/           "
 		;;
 		4)
-			echo " 				            * _/\___/-\___/\_  *   "
-			echo "				         *  __\              \   * "
+			echo " 	                 		            * _/\___/-\___/\_  *   "
+			echo "				                     *  __\              \   * "
 			echo "                              *       \  BOOM  !! BOOM  |_  -"
 			echo "                                 *    /  BOOM  !! BOOM  _/   "
 			echo " ___++>____                -       * _\  BOOM  !! BOOM /__ * "
 			echo " | _______|                    -     \__ BOOM  !! BOOM __/   "
 			echo " |getAir2U|____            *        *   \__  __   _  _/  *   "
 			echo " |_OOO_____oo_|               *    -    *  \/  \_/ \/  *    -"
+			
+		;;
 
 	esac
-	sleep 0.8
+	sleep 0.4
 }
 
 #Print animated ascii art flying saucer
