@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #Title........: getair.sh
-#Description..: This is a multi-use bash script for Linux systems to audit wireless networks.
+#Description..: The Present of Wireless Networks For Linux Systems.
 #Author.......: v1s1t0r999
 #Version......: 1.0.0
-#Usage........: bash getair.sh
+#Usage........: bash getair.sh 
 #Bash Version.: 4.2 or later
 
 #Global shellcheck disabled warnings
