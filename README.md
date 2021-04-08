@@ -1,3 +1,4 @@
+SORRY BUT THERE WON'T BE ANY UPDATES FOR NEXT 2 YEARS. PLEASE VISIT <https://github.com/v1s1t0r999/> AND SEE THE README.md
 <p align="center"><img src="https://github.com/v1s1t0r999/getAir2U/blob/main/imgs/icons/getAir2U_LOGO.png?raw=true" /></p>
 
 # "getAir2U" is not the Future, but Present of Wireless Attacks!
